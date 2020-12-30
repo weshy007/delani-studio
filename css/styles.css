@@ -6,8 +6,8 @@
 .welcome {
     position: absolute;
     text-align: center;
-    top: 20%;
-    left: 40%;
+    top: 30%;
+    left: 550px;
     
 }
 .card {
@@ -19,4 +19,12 @@
     position: absolute;
     text-align: center;
     
+}
+.what-we-do{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.container {
+    padding: 4rem;
+    text-align: center;
 }
