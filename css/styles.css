@@ -28,6 +28,12 @@
     padding: 4rem;
     text-align: center;
 }
-p{
+.para1-hidden, .para2-hidden, .para3-hidden {
     display: none;
+}
+.product, .development, .design {
+    cursor: pointer;
+}
+.portfolio {
+    text-align: center;
 }

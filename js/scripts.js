@@ -5,16 +5,12 @@ $(document).ready(function() {
     });
   })
 
-$(document).ready(function(){
-    $(".development").click(function() {
+$(".development").click(function() {
         $("development").toggle();
         $(".para2-hidden").toggle();
-    });
 });
 
-$(document).ready(function(){
-    $(".product").click(function() {
-        $("product").toggle();
-        $(".para3-hidden").toggle();
-    });
+$(".product").click(function() {
+    $("product").toggle();
+    $(".para3-hidden").toggle();
 });
