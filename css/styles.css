@@ -17,8 +17,9 @@
     width: 90%;
 }
 .services {
-    position: absolute;
-    text-align: center;  
+    position: relative;
+    text-align: center;
+    bottom: 0px;  
 }
 
 .what-we-do{
