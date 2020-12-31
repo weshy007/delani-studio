@@ -6,8 +6,8 @@
 .welcome {
     position: absolute;
     text-align: center;
-    top: 30%;
-    left: 550px;
+    top: 400px;
+    left: 650px;
     
 }
 .card {
@@ -37,3 +37,10 @@
 .portfolio {
     text-align: center;
 }
+
+img{
+    width: 100%;
+}
+
+
+
