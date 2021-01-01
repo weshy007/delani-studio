@@ -1,7 +1,7 @@
 .welcome {
     position: absolute;
-    top: 50%;
-    left: 40%;
+    top: 35%;
+    left: 30%;
     text-align: center;
     color: white;
     
@@ -38,6 +38,7 @@
 }
 .portfolio {
     text-align: center;
+    
 }
 
 .rights {
