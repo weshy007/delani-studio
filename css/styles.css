@@ -16,7 +16,7 @@
     color: white;
 }
 #serv {
-    background-image: url(/images/serv_image.jpg);
+    background-image: url(../images/serv_image.jpg);
     height: 320px;
 }
 .what-we-do{
