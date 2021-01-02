@@ -12,7 +12,7 @@ So that is `git clone https://weshy007.github.io/delani-studio/`
 - jQuery
 - Bootstrap
 
-You can check the end product on [Github Deployment](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENCE "Delani Studio")
+You can check the end product on [Github Deployment](https://weshy007.github.io/delani-studio/ "Delani Studio")
 
 ## Author and Contacts
 - For feedback, write to josephwaweru96@gmail.com
@@ -21,7 +21,7 @@ You can check the end product on [Github Deployment](https://github.com/weshy007
 - After the user enters the contact us message and submits, they are alerted their message was well received.
 
 ## License 
-This project is licenced under the MIT Licence - see the [LICENCE](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENSE.txt "Licence") file for details 
+This project is licenced under the MIT Licence - see the [LICENCE](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENCE "Licence") file for details 
 - copyright 2020 - Waithaka Waweru 
 
 ## Acknowledgements
