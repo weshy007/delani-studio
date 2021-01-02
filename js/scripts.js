@@ -1,18 +1,3 @@
-// function feedback() {
-//   var nn = document.getElementById("name");
-//   var ee = document.getElementById("email");
-//   var mm = document.getElementById("message");
-
-//   if (mm === "")
-//   alert("please enter a message")
-
-//   else if (ee === "")
-//   alert("please enter an email")
-
-//   else if (nn === "")
-//   alert("enter your name")
-// }
-
 $("form#form").on("submit",function(event) {
   event.preventDefault();
   let name = $("input#name").val();
