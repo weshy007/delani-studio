@@ -38,11 +38,16 @@ $(document).ready(function() {
   });
 
 $(".development").click(function() {
-        $(".development").toggle();
-        $(".para2-hidden").toggle();
+  $(".development").toggle();
+  $(".para2-hidden").toggle();
+});
+$(".para2-hidden").click(function() {
+  $(".para2-hidden").toggle();
+  $(".development").toggle();
 });
 
 $(".product").click(function() {
     $(".product").toggle();
     $(".para3-hidden").toggle();
 });
+
