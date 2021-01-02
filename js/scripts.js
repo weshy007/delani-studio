@@ -8,29 +8,29 @@ $("form#form").on("submit",function(event) {
 
 $(document).ready(function() {
     $(".design").click(function() {
-      $(".design").toggle();
-      $(".para1-hidden").toggle();
+      $(".design").slideToggle();
+      $(".para1-hidden").slideToggle();
     });
     $(".para1-hidden").click(function() {
-      $(".para1-hidden").toggle();
-      $(".design").toggle();
+      $(".para1-hidden").slideToggle();
+      $(".design").slideToggle();
     });
   });
 
 $(".development").click(function() {
-  $(".development").toggle();
-  $(".para2-hidden").toggle();
+  $(".development").slideToggle();
+  $(".para2-hidden").slideToggle();
 });
 $(".para2-hidden").click(function() {
-  $(".para2-hidden").toggle();
-  $(".development").toggle();
+  $(".para2-hidden").slideToggle();
+  $(".development").slideToggle();
 });
 
 $(".product").click(function() {
-    $(".product").toggle();
-    $(".para3-hidden").toggle();
+    $(".product").slideToggle();
+    $(".para3-hidden").slideToggle();
 });
 $(".para3-hidden").click(function() {
-  $(".para3-hidden").toggle();
-  $(".product").toggle();
+  $(".para3-hidden").slideToggle();
+  $(".product").slideToggle();
 })
