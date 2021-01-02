@@ -48,6 +48,17 @@
 .rights {
     text-align: center;
 }
+.form-control{
+    background: transparent;
+}
+#head{
+    color: white;
+    text-align: center;
+}
+#contact {
+    background-image: url(/images/cont_image.jpg);
+    height: 400px;
+}
 
 
 
