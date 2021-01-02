@@ -50,4 +50,7 @@ $(".product").click(function() {
     $(".product").toggle();
     $(".para3-hidden").toggle();
 });
-
+$(".para3-hidden").click(function() {
+  $(".para3-hidden").toggle();
+  $(".product").toggle();
+})
