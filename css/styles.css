@@ -16,7 +16,7 @@
     color: white;
 }
 #serv {
-    background-image: url(../images/serv_image.jpg);
+    background-image: url('../images/serv_image.jpg');
     height: 320px;
 }
 .what-we-do{
@@ -47,7 +47,7 @@
     text-align: center;
 }
 #contact {
-    background-image: url(/images/cont_image.jpg);
+    background-image: url('../images/cont_image.jpg');
     height: 400px;
 }
 
