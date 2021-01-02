@@ -1,6 +1,10 @@
 ## DELANI STUDIOS
 This is a project on making Delani Studios Webpage
 
+## Getting Started
+First you `git clone` the project into your machine and open it with the Virtual studio code. 
+So that is `git clone https://weshy007.github.io/delani-studio/`
+
 ## TECHONOLOGIES USED
 - HTML
 - CSS 
@@ -13,9 +17,12 @@ You can check the end product on [Github Deployment](https://weshy007.github.io/
 ## Author and Contacts
 - For feedback, write to josephwaweru96@gmail.com
 
+## Behavior Driven Development
+- After the user enters the contact us message and submits, they are alerted their message was well received
+
 ## Licence 
-This project is licenced under the MIT Licence - see the [LICENCE.md](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENCE.txt "Licence") file for details 
+This project is licenced under the MIT Licence - see the [LICENSE](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENCE.txt "Licence") file for details 
 - copyright 2020 - Waithaka Waweru 
 
 ## Acknowledgements
-Fellow students and Technical mentors for being supportive
+Fellow students especially Stephen Ndele for help with debugging and Technical mentors for being supportive
