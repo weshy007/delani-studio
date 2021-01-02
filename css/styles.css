@@ -5,7 +5,7 @@
 .welcome {
     position: absolute;
     top: 30vh;
-    left: 30%;
+    left: 38%;
     text-align: center;
     color: white;
 }
@@ -15,7 +15,7 @@
     padding-right: 5px;
 }
 .mouse {
-    margin-top: 30vh;
+    margin-top: 35vh;
 }
 .card {
     text-align: center;
@@ -61,10 +61,8 @@
 #contact {
     background-image: url('../images/cont_image.jpg');
     height: 400px;
-    
 }
 #message, #email, #name {
     background-color: transparent;
     color: white;
 }
-
