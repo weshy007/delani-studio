@@ -20,8 +20,8 @@ You can check the end product on [Github Deployment](https://weshy007.github.io/
 ## Behavior Driven Development
 - After the user enters the contact us message and submits, they are alerted their message was well received
 
-## Licence 
-This project is licenced under the MIT Licence - see the [LICENSE](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENCE.txt "Licence") file for details 
+## License 
+This project is licenced under the MIT Licence - see the [LICENSE.txt](https://github.com/weshy007/delani-studio/blob/gh-pages/LICENSE.txt "Licence") file for details 
 - copyright 2020 - Waithaka Waweru 
 
 ## Acknowledgements
