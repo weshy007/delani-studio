@@ -6,9 +6,6 @@ $("form#form").on("submit",function(event) {
   $("#output").text(results); 
 });
 
-
-
-
 $(document).ready(function() {
     $(".design").click(function() {
       $(".design").toggle();
