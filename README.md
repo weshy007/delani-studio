@@ -1,11 +1,11 @@
 ## DELANI STUDIOS
-This is a project on making Delani Studios Webpage
+This is a project of making Delani Studios Webpage
 
 ## Getting Started
 First you `git clone` the project into your machine and open it with the Virtual studio code. 
 So that is `git clone https://weshy007.github.io/delani-studio/`
 
-## TECHONOLOGIES USED
+## TECHNOLOGIES USED
 - HTML
 - CSS 
 - JavaScript
