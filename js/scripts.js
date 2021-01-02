@@ -1,10 +1,8 @@
 $("form#form").on("submit",function(event) {
   event.preventDefault();
   let name = $("input#name").val();
-  // let email = $("input#email").val();
-  // let message = $("input#message").val();
-
-  var results = (name + ", thank you for contacting us");
+  
+  var results = (name + ", your message was received. Thank you for contacting us");
   $("#output").text(results); 
 });
 
